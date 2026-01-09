@@ -14,3 +14,4 @@
   - [Apps Interface](apps-interface.md)
   - [Debugging](mcu-debugging.md)
 - [Demo](mptf-demo.md)
+- [Tuning](mptf-tuning.md)
