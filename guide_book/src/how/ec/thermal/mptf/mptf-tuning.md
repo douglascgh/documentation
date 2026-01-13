@@ -65,7 +65,7 @@ After a while the PID controller is now able to stabilize to the desired tempera
 ![Tune_1](media/MPTF_Tune_1.png)
 
 
-Not that we have found a working PID configuration, it is possible to perform further optimization. The PID configuration had a value of 18mW as an initial output which is the value applied when temperature hits the initial threshold. This value can be adjusted to higher value as the second graph shows temperature reduction on higher power level. Adjusting to higher initial power level improves user experience as a more performant CPU is available. The following graph shows when initial output is set to 22mW where it has similar result as above.
+Now that we have found a working PID configuration, it is possible to perform further optimization. The PID configuration had a value of 18mW as an initial output which is the value applied when temperature hits the initial threshold. This value can be adjusted to higher value as the second graph shows temperature reduction on higher power level. Adjusting to higher initial power level improves user experience as a more performant CPU is available. The following graph shows when initial output is set to 22mW where it has similar result as above.
 
 
 ![Tune_2_XML](media/MPTF_Tune_2_XML.png)
